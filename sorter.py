@@ -1,3 +1,6 @@
+# written by chatGPT
+# F = bad, J = good, left arrow = undo, esc = exit
+
 import os
 import shutil
 import tkinter as tk
